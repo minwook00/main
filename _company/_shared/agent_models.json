@@ -7,5 +7,6 @@
   "secretary": "google/gemma-4-e2b",
   "editor": "text-embedding-nomic-embed-text-v1.5",
   "writer": "google/gemma-4-e2b",
-  "researcher": "google/gemma-4-e2b"
+  "researcher": "google/gemma-4-e2b",
+  "developer": "qwen3.5-9b-deepseek-v4-flash"
 }
